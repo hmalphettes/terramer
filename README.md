@@ -19,6 +19,8 @@ Same than Terraform: Mozilla Public License V2
 
 Install the mermaid markdown preview plugin for VS Code to see the rendered diagram: https://github.com/mjbvz/vscode-markdown-mermaid
 
+![Network diagram example](https://cloud.githubusercontent.com/assets/2233628/7765488/f5ed19dc-007b-11e5-896e-ce7a51161a4b.PNG)
+
 Source: https://github.com/knsv/mermaid/issues/161#issuecomment-104521770
 ```mermaid
 graph LR; I --> IG((IG))
