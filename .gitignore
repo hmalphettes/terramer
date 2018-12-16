@@ -10,3 +10,20 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# The locally produced binary:
+terramer
+
+.DS_Store
+.vagrant/
+*.backup
+./*.tfstate
+.terraform/
+*.log
+*.bak
+*~
+.*.swp
+.idea
+*.iml
+*.iml
+bin/
